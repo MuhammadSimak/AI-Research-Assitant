@@ -1,4 +1,4 @@
-📘 RAG Document Q&A System (Groq + Llama3 + LangChain + Streamlit)
+**📘 RAG Document Q&A System (Groq + Llama3 + LangChain + Streamlit)**
 
 A fully functional Retrieval-Augmented Generation (RAG) application built with:
 
@@ -16,7 +16,7 @@ PDF ingestion & chunking
 
 This app allows users to ask questions from their research papers or PDFs, and the system will answer using only the PDF content (true RAG pipeline).
 
-🚀 Features
+**🚀 Features**
 
 📄 Upload & process research paper PDFs
 
